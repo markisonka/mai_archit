@@ -1,0 +1,4 @@
+.github_token
+venv
+*__pycache__
+src/simple_messenger/secrets.py
